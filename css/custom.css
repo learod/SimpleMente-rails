@@ -1,0 +1,44 @@
+ul.lista-ruby{
+  /*list-style-image: url("../images/ruby-item.png");*/
+  list-style-image: url("../images/favicon.ico");
+  /*font-family: maven_pro_bold, sans-serif;
+  font-size: 30px;*/
+  text-align: left;
+}
+
+div.lista{
+  text-align: left;
+  margin-left: 30%;
+}
+
+div.logo-rails{
+  background-image: url("../images/rails.png");
+  width: 50px;
+  height: 64px;
+  float: left;
+}
+img.matz{
+  float: left;
+}
+
+div.ruby-logo{
+  margin-left: 20%;
+  background-image: url("../images/ruby-logo.png");
+  width: 512px;
+  height: 512px;
+}
+
+
+div.rubygems{
+  margin-left: 20%;
+  background-image: url("../images/RubyGems.png");
+  width: 512px;
+  height: 512px;
+}
+
+div.ror{
+  margin-left: 35%;
+  background-image: url("../images/ror-logo.png");
+  width: 316px;
+  height: 376px;
+}
