@@ -42,3 +42,47 @@ div.ror{
   width: 316px;
   height: 376px;
 }
+
+div.mvc{
+  margin-left: 35%;
+  background-image: url("../images/mvc-1.png");
+  width: 316px;
+  height: 274px;
+}
+
+div.preguntas{
+  margin-left: 35%;
+  background-image: url("../images/preguntas.png");
+  width: 300px;
+  height: 209px;
+}
+
+div.gracias{
+  margin-left: 35%;
+  background-image: url("../images/gracias.png");
+  width: 427px;
+  height: 299px;
+}
+
+li.twitter{
+  list-style-image: url("../images/twitter.png");
+  text-align: left;
+}
+
+li.github{
+  list-style-image: url("../images/github.png");
+  text-align: left;
+}
+
+ul.core{
+  list-style-type: none;
+}
+
+.list-img {
+    position: relative;
+}
+.list-img span {
+    position: absolute;
+    left: 180px;
+    top: 10px;
+}
